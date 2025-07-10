@@ -11,10 +11,7 @@ port = 3000
   [functions."*"]
 
 [build]
-publish = "E:\\Cursor IDE projects\\Simple-blog\\dist"
-publishOrigin = "config"
-commandOrigin = "config"
-command = "npm run build"
+publish = "."
 
   [build.environment]
 
