@@ -12,6 +12,7 @@ port = 3000
 
 [build]
 publish = "."
+command = ""
 
   [build.environment]
 
